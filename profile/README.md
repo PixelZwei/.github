@@ -1,58 +1,87 @@
-# 👾 PixelZwei
+<p align="center">
+  <img src="https://img.shields.io/badge/PixelZwei-8bit%20Adventures-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" />
+</p>
 
-> We build the pixel games we always wanted to play.
-> AI-powered. Retro-inspired. Built for fun.
+<h1 align="center">👾 PixelZwei</h1>
 
----
+<p align="center">
+  <b>Vibe-coded pixel games.</b> Built with AI, caffeine & nostalgia. 🎮☕✨
+</p>
 
-## 🎮 About
-
-PixelZwei is an indie game lab focused on modern retro pixel games.
-
-We combine:
-
-- 🎨 Pixel Art & nostalgic aesthetics  
-- 🤖 AI-assisted development (LLMs, procedural generation, automation)  
-- ⚡ Modern web stack (TypeScript, React, Node, PostgreSQL)  
-- 🕹️ 8/16-bit game design philosophy  
-
-We call it **Vibe Coding for Retro Games.**
-
----
-
-## 🏰 Current Project
-
-### Workshift Dungeon
-LLM-assisted procedural dungeon crawler.  
-Modern tech meets old-school grind.
-
-Tech:
-- TypeScript
-- Express
-- React
-- PostgreSQL
-- Ollama (local LLM)
-- Docker
+<p align="center">
+  <a href="https://github.com/Pixelzwei">
+    <img src="https://img.shields.io/badge/GitHub-Organization-181717?logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Retro-8%2F16--bit-7C3AED" />
+  <img src="https://img.shields.io/badge/AI-Assisted-00C2FF" />
+  <img src="https://img.shields.io/badge/TypeScript-Love-3178C6?logo=typescript&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Vision
+## 🎮 Wer wir sind
 
-We experiment fast.  
-We ship fast.  
-If it’s fun, we release it.
+PixelZwei ist ein kleines Indie-Lab für **retro-inspirierte Pixel Games** — aber gebaut mit einem modernen Stack
+und **AI-assisted Development**.
 
----
-
-## 🧠 Interested in contributing?
-
-We love:
-
-- Pixel artists
-- Retro game designers
-- TypeScript devs
-- AI tinkerers
+> *„Wir bauen die Spiele, die wir als Kids vermisst haben – nur mit besserer Technik und mehr KI.“*
 
 ---
 
-📍 Between 8-bit and infinity.
+## 🧰 Wie wir bauen (unser Stack)
+
+- 🎨 **Pixel Art & Aesthetics** – Tilesets, Characters, UI, Vibes
+- 🤖 **LLM-powered Systems** – Content, Lore, Variationen, Prozedurales
+- ⚡ **Modern Web Stack** – TypeScript, React, Node.js, PostgreSQL
+- 🕹️ **Retro Feel** – klare Loops, tight Controls, readable UI
+
+---
+
+## 🏰 Aktuelles Projekt
+
+### **WorkShift Dungeon**
+> Web-RPG mit **prozeduralen Dungeons**, **rundenbasiertem Kampfsystem** und **KI-gestützter Content-Generierung**.
+
+**Highlights**
+- 🗺️ Prozedurale Runs & Raum-Layouts  
+- ⚔️ Taktischer Turn-Based Combat (Buffs/Debuffs/Skills)  
+- 🧙 KI-generierte Beschreibungen, Gegner & Boss-Lore (Ollama)  
+- 🎒 Items, Loot, Progression, Saves, Leaderboard  
+
+**Tech (Kurzfassung)**  
+TypeScript • React • Vite • Express • Prisma • PostgreSQL • Tailwind • Docker • Ollama
+
+> Wenn das Ding urgeil wird, releasen wir das. 😄
+
+---
+
+## 🚀 Mitmachen / Collab
+
+Wir sind offen für Leute mit Retro-Herz:
+
+- 🧩 **Game Design** (Loops, Balance, Systems)
+- 🎨 **Pixel Artists** (Assets, Tilesets, Animationen)
+- ⚡ **Vibe-Coder** (TS/React/Node)
+- 🤖 **AI Tinkerers** (Ollama, Content Pipelines, Prompting)
+
+---
+
+## 🧠 Roadmap (kurz & realistisch)
+
+- [ ] Core Gameplay Loop polishen  
+- [ ] Content-Pipeline & LLM-Templates stabilisieren  
+- [ ] Erste spielbare Demo (itch.io)  
+- [ ] Release Candidate + Changelog  
+- [ ] Public Release 🚀  
+
+---
+
+## 🏷️ Topics
+
+`pixel-art` `retro-games` `indie-game-dev` `vibe-coding` `typescript` `ai-assisted-development` `dungeon-crawler`
+
+---
+
+<p align="center">
+  📍 <i>Between 8-bit and infinity.</i>
+</p>
